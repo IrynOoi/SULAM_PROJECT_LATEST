@@ -47,4 +47,4 @@ Farmers can manage personal profile details including:
 
 ## **1.5 Display and Browsing**
 - View product information.
-- View market data.
+- View advertisement
