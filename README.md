@@ -1,6 +1,6 @@
 # **📌 TEAM MEMBERS**
 
-| **Name** | **Matric No.** | **Group** |
+| **Name** | **Matric No.** | **Session/Group** |
 |----------|----------------|------------|
 | **NURATIQAH SAFIAH BINTI AZLI** | **B032310457** | **S2G1** |
 | **OOI XIEN XIEN** | **B032310183** | **S2G1** |
