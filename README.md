@@ -9,15 +9,15 @@
 
 ---
 
-# **📌 5.0 LIST OF APP FEATURES**
+# **📌 1.0 LIST OF APP FEATURES**
 
-## **5.1 Login and Registration**
+## **1.1 Login and Registration**
 - Farmers can log in to the application.
 - First-time farmers can register and create a new account.
 
 ---
 
-## **5.2 User Profile Management**
+## **1.2 User Profile Management**
 Farmers can manage personal profile details including:
 
 ### **Editable Fields**
@@ -33,18 +33,18 @@ Farmers can manage personal profile details including:
 
 ---
 
-## **5.3 Harvest Calendar**
+## **1.3 Harvest Calendar**
 - Tracks harvest timelines.
 - Allows farmers to record or view expected harvest dates.
 
 ---
 
-## **5.4 Community / Connection**
+## **1.4 Community / Connection**
 - Displays a list of farmers in the community.
 - Enables farmers to connect, share knowledge, and support each other.
 
 ---
 
-## **5.5 Display and Browsing**
+## **1.5 Display and Browsing**
 - View product information.
 - View market data.
