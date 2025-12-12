@@ -22,10 +22,10 @@ Farmers can manage personal profile details including:
 
 ### **Editable Fields**
 - Name
-- Phone Number
+- Role
 - Email
-- Date of Birth
-- Gender
+- Phone number
+- Address
 
 ### **Additional Features**
 - View own profile
