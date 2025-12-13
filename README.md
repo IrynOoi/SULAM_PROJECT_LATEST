@@ -48,3 +48,10 @@ Farmers can manage personal profile details including:
 ## **1.5 Display and Browsing**
 - View product information.
 - View advertisement
+
+
+
+## 📽️ Presentation Video
+
+[![Project Presentation](https://img.youtube.com/vi/nFAQSCfCAf8/0.jpg)](https://youtu.be/nFAQSCfCAf8)
+
