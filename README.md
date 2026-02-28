@@ -54,6 +54,6 @@ Farmers can manage personal profile details including:
 
 
 
-# **📌 YOUTUBE PRESENTATION VIDEO**
-https://youtu.be/nFAQSCfCAf8
+## 📽️ Presentation Video
 
+[![Project Presentation](https://img.youtube.com/vi/nFAQSCfCAf8/0.jpg)](https://youtu.be/nFAQSCfCAf8)
