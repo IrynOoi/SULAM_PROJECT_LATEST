@@ -69,6 +69,23 @@ Farmers can manage personal profile details including:
 - View advertisement
 
 
+## OUTPUT
+<br><br>
+
+<img width="274" height="603" alt="image" src="https://github.com/user-attachments/assets/f429be8e-d547-452c-a3fa-b270faf3b7cb" />
+<br><br>
+
+
+<img width="179" height="410" alt="image" src="https://github.com/user-attachments/assets/5c0cb7be-c2a3-426a-9b9c-baeeaac1d674" />
+<br><br>
+
+<img width="189" height="406" alt="image" src="https://github.com/user-attachments/assets/da7abd6a-19d7-428a-9399-9cb17209d5fe" />
+
+<br><br>
+
+<img width="184" height="405" alt="image" src="https://github.com/user-attachments/assets/fd9b9fe1-98f5-4ea1-8f88-bebdc36e4141" />
+
+
 
 ## 📽️ Presentation Video
 
