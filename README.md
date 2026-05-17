@@ -56,8 +56,6 @@ It combines **farm management and community networking** to improve productivity
 
 ---
 
-# **📌 YOUTUBE PRESENTATION VIDEO**
-https://youtu.be/nFAQSCfCAf8
 
 # **📌 1.0 LIST OF APP FEATURES**
 
